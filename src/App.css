@@ -1,0 +1,6 @@
+/*  App.css  */
+
+.required:after {
+  content: " *";
+  color: red;
+}

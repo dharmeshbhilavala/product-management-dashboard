@@ -1,0 +1,12 @@
+{
+  "product": [
+    {
+      "id": "81444211-013f-473b-b723-4a4c36d84572",
+      "productName": "Product name",
+      "stock": "24",
+      "price": "20000",
+      "status": "active",
+      "note": "This is note section"
+    }
+  ]
+}
